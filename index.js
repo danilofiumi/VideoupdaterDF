@@ -33,6 +33,22 @@ function hasInternet() {
   }
 }
 
+async function notifySlack(message) {
+  const url = process.env.SLACK_WEBHOOK_URL;
+  if (!url) return;
+  console.log("Sending Slack notification...");
+  try {
+    await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text: message }),
+    });
+    console.log("Slack notification sent.");
+  } catch (error) {
+    console.error("Failed to send Slack notification:", error.message);
+  }
+}
+
 function generateReadme() {
   const processed = getProcessedVideos();
   if (processed.length === 0) return;
@@ -45,7 +61,6 @@ function generateReadme() {
     }
   });
 
-  // Sort by uploadDate (YYYYMMDD) descending
   videoData.sort((a, b) => b.uploadDate.localeCompare(a.uploadDate));
 
   let content = "# YouTube Video Gallery\n\n";
@@ -68,13 +83,31 @@ function generateReadme() {
   console.log("README.md updated (sorted by latest upload).");
 }
 
-function checkChannel() {
+function gitSync() {
+  console.log("Syncing with GitHub...");
+  try {
+    execSync("git add .", { stdio: "inherit" });
+    const status = execSync("git status --porcelain").toString().trim();
+    if (status) {
+      execSync('git commit -m "Auto-update: New videos and gallery updated"', { stdio: "inherit" });
+      execSync("git push", { stdio: "inherit" });
+      console.log("Changes pushed to GitHub successfully.");
+    } else {
+      console.log("No changes to commit.");
+    }
+  } catch (error) {
+    console.error("Failed to sync with GitHub:", error.message);
+  }
+}
+
+async function checkChannel() {
   if (!hasInternet()) {
     console.error("No internet connection. Skipping check.");
     return;
   }
   console.log(`Checking source: ${SOURCE_URL}`);
   
+  let newVideoTitles = [];
   try {
     const result = spawnSync("yt-dlp", [
       "--ignore-errors",
@@ -108,6 +141,7 @@ function checkChannel() {
       if (!processed.includes(videoId)) {
         console.log(`New video found: ${title}`);
         hasNew = true;
+        newVideoTitles.push(title);
         
         const videoFolder = join(DOWNLOADS_DIR, videoId);
         if (!existsSync(videoFolder)) mkdirSync(videoFolder);
@@ -131,13 +165,20 @@ function checkChannel() {
       }
     });
     
-    if (hasNew || !existsSync(join(process.cwd(), "README.md")) || true) {
+    if (hasNew || !existsSync(join(process.cwd(), "README.md"))) {
       generateReadme();
+      gitSync();
     }
     
+    const notificationMessage = hasNew 
+      ? `✅ *Videoupdater Job Complete*\nNew videos added:\n${newVideoTitles.map(t => `• ${t}`).join("\n")}`
+      : "✅ *Videoupdater Job Complete*\nNo new videos found.";
+
+    await notifySlack(notificationMessage);
     console.log("Check complete.");
   } catch (error) {
     console.error("Error checking source:", error.message);
+    await notifySlack(`❌ *Videoupdater Job Failed*\nError: ${error.message}`);
   }
 }
 
