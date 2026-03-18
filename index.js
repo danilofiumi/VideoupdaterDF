@@ -37,28 +37,35 @@ function generateReadme() {
   const processed = getProcessedVideos();
   if (processed.length === 0) return;
 
-  let content = "# YouTube Video Gallery\n\n";
-  content += "This gallery is automatically updated with the latest videos from the playlist.\n\n";
-  content += "| Thumbnail | Title | Link |\n";
-  content += "| :--- | :--- | :--- |\n";
-
-  // Reverse to show newest first
-  const latestVideos = [...processed].reverse();
-
-  latestVideos.forEach(videoId => {
+  const videoData = [];
+  processed.forEach(videoId => {
     const metadataPath = join(DOWNLOADS_DIR, videoId, "metadata.json");
     if (existsSync(metadataPath)) {
-      const metadata = JSON.parse(readFileSync(metadataPath, "utf-8"));
-      const thumbPath = `downloads/${videoId}/thumbnail.jpg`;
-      const videoUrl = metadata.videoUrl;
-      const title = metadata.title;
-      
-      content += `| [![${title}](${thumbPath})](${videoUrl}) | ${title} | [Watch on YouTube](${videoUrl}) |\n`;
+      videoData.push(JSON.parse(readFileSync(metadataPath, "utf-8")));
     }
   });
 
+  // Sort by uploadDate (YYYYMMDD) descending
+  videoData.sort((a, b) => b.uploadDate.localeCompare(a.uploadDate));
+
+  let content = "# YouTube Video Gallery\n\n";
+  content += "This gallery is automatically updated with the latest videos from the playlist.\n\n";
+  content += "| Thumbnail | Title | Upload Date | Link |\n";
+  content += "| :--- | :--- | :--- | :--- |\n";
+
+  videoData.forEach(metadata => {
+    const videoId = metadata.videoId;
+    const thumbPath = `downloads/${videoId}/thumbnail.jpg`;
+    const videoUrl = metadata.videoUrl;
+    const title = metadata.title;
+    const date = metadata.uploadDate;
+    const formattedDate = `${date.substring(0, 4)}-${date.substring(4, 6)}-${date.substring(6, 8)}`;
+    
+    content += `| [![${title}](${thumbPath})](${videoUrl}) | ${title} | ${formattedDate} | [Watch](${videoUrl}) |\n`;
+  });
+
   writeFileSync(join(process.cwd(), "README.md"), content);
-  console.log("README.md updated.");
+  console.log("README.md updated (sorted by latest upload).");
 }
 
 function checkChannel() {
@@ -71,7 +78,7 @@ function checkChannel() {
   try {
     const result = spawnSync("yt-dlp", [
       "--ignore-errors",
-      "--print", "%(id)s|%(title)s|%(thumbnail)s",
+      "--print", "%(id)s|%(title)s|%(thumbnail)s|%(upload_date)s",
       "--playlist-items", "1-10",
       SOURCE_URL
     ], { encoding: "utf-8" });
@@ -88,11 +95,12 @@ function checkChannel() {
 
     output.forEach(line => {
       const parts = line.split("|");
-      if (parts.length < 3) return;
+      if (parts.length < 4) return;
 
       const videoId = parts[0].trim();
       const title = parts[1].trim();
       const thumbnailUrl = parts[2].trim();
+      const uploadDate = parts[3].trim();
       const videoUrl = `https://www.youtube.com/watch?v=${videoId}`;
 
       if (videoId === "NA" || !videoId) return;
@@ -104,7 +112,7 @@ function checkChannel() {
         const videoFolder = join(DOWNLOADS_DIR, videoId);
         if (!existsSync(videoFolder)) mkdirSync(videoFolder);
 
-        const metadata = { title, videoUrl, videoId, dateAdded: new Date().toISOString() };
+        const metadata = { title, videoUrl, videoId, uploadDate, dateAdded: new Date().toISOString() };
         writeFileSync(join(videoFolder, "metadata.json"), JSON.stringify(metadata, null, 2));
 
         if (thumbnailUrl && thumbnailUrl !== "NA") {
