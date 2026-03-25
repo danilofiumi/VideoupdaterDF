@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![L'AI sta rendendo la Gen Z nichilista?](downloads/524tRTx3WXA/thumbnail.jpg)](https://www.youtube.com/watch?v=524tRTx3WXA) | L'AI sta rendendo la Gen Z nichilista? | 2026-03-21 | [Watch](https://www.youtube.com/watch?v=524tRTx3WXA) |
 | [![Chi è Dario Amodei? La storia del fondatore di Anthropic e Claude](downloads/mQdgNMsheoA/thumbnail.jpg)](https://www.youtube.com/watch?v=mQdgNMsheoA) | Chi è Dario Amodei? La storia del fondatore di Anthropic e Claude | 2026-03-14 | [Watch](https://www.youtube.com/watch?v=mQdgNMsheoA) |
 | [![Ho lasciato che l'AI si scrivesse la sua anima, ecco quello che è successo](downloads/lESidAbdY3Y/thumbnail.jpg)](https://www.youtube.com/watch?v=lESidAbdY3Y) | Ho lasciato che l'AI si scrivesse la sua anima, ecco quello che è successo | 2026-03-07 | [Watch](https://www.youtube.com/watch?v=lESidAbdY3Y) |
 | [![Siamo pronti a un mondo senza problemi?](downloads/AJiKsMI2oXM/thumbnail.jpg)](https://www.youtube.com/watch?v=AJiKsMI2oXM) | Siamo pronti a un mondo senza problemi? | 2026-02-26 | [Watch](https://www.youtube.com/watch?v=AJiKsMI2oXM) |

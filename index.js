@@ -109,17 +109,26 @@ async function checkChannel() {
   
   let newVideoTitles = [];
   try {
-    const result = spawnSync("yt-dlp", [
+    const result = spawnSync("/opt/homebrew/bin/yt-dlp", [
       "--ignore-errors",
       "--print", "%(id)s|%(title)s|%(thumbnail)s|%(upload_date)s",
       "--playlist-items", "1-10",
       SOURCE_URL
     ], { encoding: "utf-8" });
 
+    if (result.error) {
+      console.error("Error executing yt-dlp:", result.error.message);
+      return;
+    }
+
+    if (result.stderr && result.stderr.includes("ERROR")) {
+      console.error("yt-dlp stderr:", result.stderr);
+    }
+
     const output = result.stdout ? result.stdout.trim().split("\n") : [];
     
     if (output.length === 0 || !output[0]) {
-      console.log("No videos found or error occurred.");
+      console.log("No videos found or error occurred. Output was empty.");
       return;
     }
 
