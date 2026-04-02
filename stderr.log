@@ -1,0 +1,5 @@
+To https://github.com/danilofiumi/VideoupdaterDF.git
+   2a9627f..23cb559  main -> main
+error: Cannot find package 'dotenv' from '/Users/danilofiumi/Projects/YT/Videoupdater/index.js'
+
+Bun v1.2.19 (macOS arm64)

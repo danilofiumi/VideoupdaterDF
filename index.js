@@ -26,7 +26,7 @@ function saveProcessedVideo(videoId) {
 
 function hasInternet() {
   try {
-    execSync("ping -c 1 google.com", { stdio: "ignore" });
+    execSync("/sbin/ping -c 1 google.com", { stdio: "ignore" });
     return true;
   } catch (e) {
     return false;
@@ -86,11 +86,11 @@ function generateReadme() {
 function gitSync() {
   console.log("Syncing with GitHub...");
   try {
-    execSync("git add .", { stdio: "inherit" });
-    const status = execSync("git status --porcelain").toString().trim();
+    execSync("/usr/bin/git add .", { stdio: "inherit" });
+    const status = execSync("/usr/bin/git status --porcelain").toString().trim();
     if (status) {
-      execSync('git commit -m "Auto-update: New videos and gallery updated"', { stdio: "inherit" });
-      execSync("git push", { stdio: "inherit" });
+      execSync('/usr/bin/git commit -m "Auto-update: New videos and gallery updated"', { stdio: "inherit" });
+      execSync("/usr/bin/git push", { stdio: "inherit" });
       console.log("Changes pushed to GitHub successfully.");
     } else {
       console.log("No changes to commit.");
@@ -161,7 +161,7 @@ async function checkChannel() {
         if (thumbnailUrl && thumbnailUrl !== "NA") {
           console.log(`Downloading thumbnail for ${videoId}...`);
           try {
-            execSync(`curl -L -s -o "${join(videoFolder, "thumbnail.jpg")}" "${thumbnailUrl}"`);
+            execSync(`/usr/bin/curl -L -s -o "${join(videoFolder, "thumbnail.jpg")}" "${thumbnailUrl}"`);
           } catch (e) {
             console.error(`Failed to download thumbnail via curl: ${e.message}`);
           }

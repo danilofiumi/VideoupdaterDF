@@ -10,6 +10,11 @@
         <string>run</string>
         <string>/Users/danilofiumi/Projects/YT/Videoupdater/index.js</string>
     </array>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/danilofiumi/.bun/bin</string>
+    </dict>
     <key>WorkingDirectory</key>
     <string>/Users/danilofiumi/Projects/YT/Videoupdater</string>
     <key>StartCalendarInterval</key>
