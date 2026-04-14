@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![Perché la Gen Z ha venduto l'ANIMA per un LIKE](downloads/TB2KptZBgqA/thumbnail.jpg)](https://www.youtube.com/watch?v=TB2KptZBgqA) | Perché la Gen Z ha venduto l'ANIMA per un LIKE | 2026-04-11 | [Watch](https://www.youtube.com/watch?v=TB2KptZBgqA) |
 | [![L'AI ci rende DELIRANTI?](downloads/KcI9-ZBY0Yw/thumbnail.jpg)](https://www.youtube.com/watch?v=KcI9-ZBY0Yw) | L'AI ci rende DELIRANTI? | 2026-04-04 | [Watch](https://www.youtube.com/watch?v=KcI9-ZBY0Yw) |
 | [![Progetto Terafab: Perchè Musk vuole lanciare 1 MILIONE di satelliti](downloads/s6B-ihXe7cE/thumbnail.jpg)](https://www.youtube.com/watch?v=s6B-ihXe7cE) | Progetto Terafab: Perchè Musk vuole lanciare 1 MILIONE di satelliti | 2026-03-28 | [Watch](https://www.youtube.com/watch?v=s6B-ihXe7cE) |
 | [![L'AI sta rendendo la Gen Z nichilista?](downloads/524tRTx3WXA/thumbnail.jpg)](https://www.youtube.com/watch?v=524tRTx3WXA) | L'AI sta rendendo la Gen Z nichilista? | 2026-03-21 | [Watch](https://www.youtube.com/watch?v=524tRTx3WXA) |

@@ -3,3 +3,104 @@ To https://github.com/danilofiumi/VideoupdaterDF.git
 error: Cannot find package 'dotenv' from '/Users/danilofiumi/Projects/YT/Videoupdater/index.js'
 
 Bun v1.2.19 (macOS arm64)
+To https://github.com/danilofiumi/VideoupdaterDF.git
+   5a36a62..404f41b  main -> main
+yt-dlp stderr: WARNING: [youtube] HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. Retrying (1/3)...
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = WAEkh2beIHigKx4R ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [download] Got error: HTTP Error 403: Forbidden
+ERROR: fragment 1 not found, unable to continue
+ERROR: [youtube] TB2KptZBgqA: Requested format is not available. Use --list-formats for a list of available formats
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = 7-b8ETvcAl3pKRxd ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Failed to download m3u8 information: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+ERROR: [youtube] KcI9-ZBY0Yw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')). Retrying (1/3)...
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = 7rDrot4F6aai2RDT ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = KcxWEpiTgB0hWx-U ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = ne_IN7bZq9O7Ih82 ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] lESidAbdY3Y: nsig extraction failed: Some formats may be missing
+         n = NrCv2i4cioObXxJP ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] AJiKsMI2oXM: nsig extraction failed: Some formats may be missing
+         n = K0WCeCN52YcuSBkF ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] tw-7HE4hG8Y: nsig extraction failed: Some formats may be missing
+         n = bXJ_Odjpm4S3ABin ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=20.0). Retrying (1/3)...
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] bM58bnSnyX4: nsig extraction failed: Some formats may be missing
+         n = K26aSPf254QM6xjI ; player = https://www.youtube.com/s/player/8a6e7bc4/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Failed to download m3u8 information: HTTPSConnectionPool(host='manifest.googlevideo.com', port=443): Read timed out. (read timeout=20.0)
+ERROR: [youtube] bM58bnSnyX4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=20.0). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x107455a90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc0cd0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download webpage: <urllib3.connection.HTTPSConnection object at 0x108dc11d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x108dc11d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)")). Giving up after 3 retries
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc16d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc1bd0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc20d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download webpage: <urllib3.connection.HTTPSConnection object at 0x108dc25d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x108dc25d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)")). Giving up after 3 retries
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc2ad0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x107455a90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc25d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download webpage: <urllib3.connection.HTTPSConnection object at 0x108dc20d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x108dc20d0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)")). Giving up after 3 retries
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc1bd0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc1950>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x107455a90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download API page: <urllib3.connection.HTTPSConnection object at 0x108dc1bd0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x108dc1bd0>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)"))
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc2490>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x107455a90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc2490>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download API page: <urllib3.connection.HTTPSConnection object at 0x108dc2850>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x108dc2850>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)"))
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x107455a90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc2490>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] <urllib3.connection.HTTPSConnection object at 0x108dc0f50>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download API page: <urllib3.connection.HTTPSConnection object at 0x108dc0b90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("<urllib3.connection.HTTPSConnection object at 0x108dc0b90>: Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)"))
+ERROR: [youtube] BW_6myvnH-0: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+
+Failed to send Slack notification: Unable to connect. Is the computer able to access the url?
