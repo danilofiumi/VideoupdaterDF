@@ -104,3 +104,50 @@ WARNING: [youtube] Unable to download API page: <urllib3.connection.HTTPSConnect
 ERROR: [youtube] BW_6myvnH-0: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
 
 Failed to send Slack notification: Unable to connect. Is the computer able to access the url?
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = _L-YOD77Qsi6sBZ ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = jZPiV4glojzEBmu ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = Si-L0YJBrWDeBS9 ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. (read timeout=20.0). Retrying (1/3)...
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = V_CzI8K-i3QSKPs ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Failed to download m3u8 information: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+ERROR: [youtube] s6B-ihXe7cE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = 75Fb8xT3EvkbFjV ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = Iz_rYPwptXkfeK4 ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Failed to download m3u8 information: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] lESidAbdY3Y: nsig extraction failed: Some formats may be missing
+         n = pNRhtzJHoYrFPkM ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] AJiKsMI2oXM: nsig extraction failed: Some formats may be missing
+         n = BvyNrjZCTcXyKyl ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')). Retrying (1/3)...
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] tw-7HE4hG8Y: nsig extraction failed: Some formats may be missing
+         n = v8rCvywDxy2hMR0 ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+WARNING: [youtube] bM58bnSnyX4: nsig extraction failed: Some formats may be missing
+         n = 2yKLWOIOsKngFzA ; player = https://www.youtube.com/s/player/4b0d80ee/player_es6.vflset/en_US/base.js
+
