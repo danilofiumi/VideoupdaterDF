@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![Perché imparare a PROGRAMMARE nel 2026 è come saper LEGGERE nel 1800](downloads/8DTpDanHlWM/thumbnail.jpg)](https://www.youtube.com/watch?v=8DTpDanHlWM) | Perché imparare a PROGRAMMARE nel 2026 è come saper LEGGERE nel 1800 | 2026-04-25 | [Watch](https://www.youtube.com/watch?v=8DTpDanHlWM) |
 | [![Perché NON dovresti INFORMARTI (e forse è proprio questo il problema)](downloads/cXL7ftLX2KA/thumbnail.jpg)](https://www.youtube.com/watch?v=cXL7ftLX2KA) | Perché NON dovresti INFORMARTI (e forse è proprio questo il problema) | 2026-04-18 | [Watch](https://www.youtube.com/watch?v=cXL7ftLX2KA) |
 | [![Perché la Gen Z ha venduto l'ANIMA per un LIKE](downloads/TB2KptZBgqA/thumbnail.jpg)](https://www.youtube.com/watch?v=TB2KptZBgqA) | Perché la Gen Z ha venduto l'ANIMA per un LIKE | 2026-04-11 | [Watch](https://www.youtube.com/watch?v=TB2KptZBgqA) |
 | [![L'AI ci rende DELIRANTI?](downloads/KcI9-ZBY0Yw/thumbnail.jpg)](https://www.youtube.com/watch?v=KcI9-ZBY0Yw) | L'AI ci rende DELIRANTI? | 2026-04-04 | [Watch](https://www.youtube.com/watch?v=KcI9-ZBY0Yw) |

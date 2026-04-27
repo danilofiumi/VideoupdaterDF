@@ -53,3 +53,17 @@ Downloading thumbnail for cXL7ftLX2KA...
 Saved Perché NON dovresti INFORMARTI (e forse è proprio questo il problema) to /Users/danilofiumi/Projects/YT/Videoupdater/downloads/cXL7ftLX2KA
 README.md updated (sorted by latest upload).
 Syncing with GitHub...
+[main 35478e8] Auto-update: New videos and gallery updated
+ 6 files changed, 63 insertions(+), 1 deletion(-)
+ create mode 100644 downloads/cXL7ftLX2KA/metadata.json
+ create mode 100644 downloads/cXL7ftLX2KA/thumbnail.jpg
+Changes pushed to GitHub successfully.
+Sending Slack notification...
+Slack notification sent.
+Check complete.
+Checking source: https://www.youtube.com/playlist?list=PLvAyFccyE6iOFgCAT4RaYxz2JUpNWwk9u
+New video found: Perché imparare a PROGRAMMARE nel 2026 è come saper LEGGERE nel 1800
+Downloading thumbnail for 8DTpDanHlWM...
+Saved Perché imparare a PROGRAMMARE nel 2026 è come saper LEGGERE nel 1800 to /Users/danilofiumi/Projects/YT/Videoupdater/downloads/8DTpDanHlWM
+README.md updated (sorted by latest upload).
+Syncing with GitHub...
