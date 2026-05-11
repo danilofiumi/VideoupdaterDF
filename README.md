@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![L'AI è un ILLUSIONE](downloads/MSN1j8IwJis/thumbnail.jpg)](https://www.youtube.com/watch?v=MSN1j8IwJis) | L'AI è un ILLUSIONE | 2026-05-10 | [Watch](https://www.youtube.com/watch?v=MSN1j8IwJis) |
 | [![Il terrificante mondo del TOKENMAXXING](downloads/DnNYJtqBY9o/thumbnail.jpg)](https://www.youtube.com/watch?v=DnNYJtqBY9o) | Il terrificante mondo del TOKENMAXXING | 2026-05-02 | [Watch](https://www.youtube.com/watch?v=DnNYJtqBY9o) |
 | [![Perché imparare a PROGRAMMARE nel 2026 è come saper LEGGERE nel 1800](downloads/8DTpDanHlWM/thumbnail.jpg)](https://www.youtube.com/watch?v=8DTpDanHlWM) | Perché imparare a PROGRAMMARE nel 2026 è come saper LEGGERE nel 1800 | 2026-04-25 | [Watch](https://www.youtube.com/watch?v=8DTpDanHlWM) |
 | [![Perché NON dovresti INFORMARTI (e forse è proprio questo il problema)](downloads/cXL7ftLX2KA/thumbnail.jpg)](https://www.youtube.com/watch?v=cXL7ftLX2KA) | Perché NON dovresti INFORMARTI (e forse è proprio questo il problema) | 2026-04-18 | [Watch](https://www.youtube.com/watch?v=cXL7ftLX2KA) |
