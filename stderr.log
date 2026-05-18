@@ -251,3 +251,49 @@ WARNING: [youtube] Falling back to generic n function search
 WARNING: [youtube] lESidAbdY3Y: nsig extraction failed: Some formats may be missing
          n = xd3vdUU9_cNdIl5a1o ; player = https://www.youtube.com/s/player/8fb635c2/player_es6.vflset/en_US/base.js
 
+To https://github.com/danilofiumi/VideoupdaterDF.git
+   54a7bc9..e2f2579  main -> main
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 1_7d-PSXsXk: nsig extraction failed: Some formats may be missing
+         n = 8p_itnpqpdgq5w ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+ERROR: [download] Got error: HTTPSConnectionPool(host='rr7---sn-8qj-q5qee.googlevideo.com', port=443): Read timed out. (read timeout=20.0)
+ERROR: fragment 1 not found, unable to continue
+WARNING: [youtube] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')). Retrying (1/3)...
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] MSN1j8IwJis: nsig extraction failed: Some formats may be missing
+         n = FnwswIgrhwcoQj ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] DnNYJtqBY9o: nsig extraction failed: Some formats may be missing
+         n = EVhqeXzlXcgRRY ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 8DTpDanHlWM: nsig extraction failed: Some formats may be missing
+         n = L98KbqjFiDylIP ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = -mLK689Rl-4kzm ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = fByIPpPaUsqFFM ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = FcFm2Iub9udxXO ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = aJ96DJ5CB3gzNE ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = 7jITPN65ynjiH- ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = 1nUHb31onCdRLS ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
+
