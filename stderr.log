@@ -297,3 +297,264 @@ WARNING: [youtube] Falling back to generic n function search
 WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
          n = 1nUHb31onCdRLS ; player = https://www.youtube.com/s/player/2d01abf7/player_es6.vflset/en_US/base.js
 
+To https://github.com/danilofiumi/VideoupdaterDF.git
+   e2f2579..fa0d7c7  main -> main
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 1_7d-PSXsXk: nsig extraction failed: Some formats may be missing
+         n = BJMYFm9p8lYI1Ra5jPh ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 1_7d-PSXsXk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] MSN1j8IwJis: nsig extraction failed: Some formats may be missing
+         n = 3ABS_6U8iGwCz9mHWik ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] MSN1j8IwJis: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] DnNYJtqBY9o: nsig extraction failed: Some formats may be missing
+         n = la1MJqLovWgVdaSLrWS ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] DnNYJtqBY9o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 8DTpDanHlWM: nsig extraction failed: Some formats may be missing
+         n = v05pkGjw6GzaPBG3EPD ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 8DTpDanHlWM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = i-aZu6oFMM5Wk7mx0VI ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] cXL7ftLX2KA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = SbtF4GLdWPVveMQMz8a ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] TB2KptZBgqA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = qbFXGmtdmmkRe2aHcL- ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] KcI9-ZBY0Yw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = FmZdRG7490Qfk7B8DID ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] s6B-ihXe7cE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = qopHtGtlmjJvBACKF2D ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 524tRTx3WXA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = lfr61Ga78IUIBxwU9-z ; player = https://www.youtube.com/s/player/57f5d44f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 1_7d-PSXsXk: nsig extraction failed: Some formats may be missing
+         n = XKtqDEDft2AkHuV5RMc ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 1_7d-PSXsXk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] MSN1j8IwJis: nsig extraction failed: Some formats may be missing
+         n = _Ac31J3SOfZ4ByH8YJ2 ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] MSN1j8IwJis: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] DnNYJtqBY9o: nsig extraction failed: Some formats may be missing
+         n = tTBjxAxk46Y4JdRL64E ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] DnNYJtqBY9o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 8DTpDanHlWM: nsig extraction failed: Some formats may be missing
+         n = TsUYZm_L3k9ajRZsB9- ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 8DTpDanHlWM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = CiF_wWkUf2WsdR9yzG7 ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] cXL7ftLX2KA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = dPOxTvGSBI1YQYmol61 ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] TB2KptZBgqA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = _M4ut6_kdRx32IwygHQ ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] KcI9-ZBY0Yw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = mNn0AZMTdBCOzXeXks6 ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] s6B-ihXe7cE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = 5qgSw7wC4Ipm8gzvCqC ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 524tRTx3WXA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = UhC6fxlN8dbY2KDgyYh ; player = https://www.youtube.com/s/player/c2f7551f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 1_7d-PSXsXk: nsig extraction failed: Some formats may be missing
+         n = -HamdhkcG9MBf1k5j ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 1_7d-PSXsXk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] MSN1j8IwJis: nsig extraction failed: Some formats may be missing
+         n = gnhJboBbiW1SmeFwD ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] MSN1j8IwJis: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] DnNYJtqBY9o: nsig extraction failed: Some formats may be missing
+         n = hIXw7wCaJZA4yZjLY ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] DnNYJtqBY9o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 8DTpDanHlWM: nsig extraction failed: Some formats may be missing
+         n = LcBRuin_wy6GA7tiI ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 8DTpDanHlWM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = KmrconIUoc_ZFQa5- ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] cXL7ftLX2KA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = kAkW48_jlkrCS720u ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] TB2KptZBgqA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = BrMPx9tCwrEDrUrmY ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] KcI9-ZBY0Yw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = DUtcKSm1oF3kQ5WVT ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] s6B-ihXe7cE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = 1toF_Oay3LojMn_R0 ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 524tRTx3WXA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = ZvCkkFLE5UlwnKUNM ; player = https://www.youtube.com/s/player/9fc68080/player_es6.vflset/en_US/base.js
+ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 1_7d-PSXsXk: nsig extraction failed: Some formats may be missing
+         n = EdmaKlG0DXoq5OX598n ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 1_7d-PSXsXk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] MSN1j8IwJis: nsig extraction failed: Some formats may be missing
+         n = 7UQKWUBe2uqpLAeMJNj ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] MSN1j8IwJis: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] DnNYJtqBY9o: nsig extraction failed: Some formats may be missing
+         n = G483sWhNpTzC4NagwUO ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] DnNYJtqBY9o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 8DTpDanHlWM: nsig extraction failed: Some formats may be missing
+         n = ifUUzpbqdptLNSk3w1W ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 8DTpDanHlWM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = VdOCygtTzW-EtmBHzCU ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] cXL7ftLX2KA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = 9dqNobstxhK2dMavlrs ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] TB2KptZBgqA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = jz5e_DD3rojXjQslEV6 ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] KcI9-ZBY0Yw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = WUWQKOdBjwfMOrmhpvN ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] s6B-ihXe7cE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = B7qO2e2k77wzKirATya ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 524tRTx3WXA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = N2iO26MghQwYOvgCucz ; player = https://www.youtube.com/s/player/9c249f6f/player_es6.vflset/en_US/base.js
+ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+yt-dlp stderr: WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 1_7d-PSXsXk: nsig extraction failed: Some formats may be missing
+         n = 65dLVGltAWCOU1RwR ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 1_7d-PSXsXk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] MSN1j8IwJis: nsig extraction failed: Some formats may be missing
+         n = NuG6ECgfQmOpf2wvv ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] MSN1j8IwJis: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] DnNYJtqBY9o: nsig extraction failed: Some formats may be missing
+         n = 3SV_xjZIZMW8c-fEk ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] DnNYJtqBY9o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 8DTpDanHlWM: nsig extraction failed: Some formats may be missing
+         n = fFmbb-_G7ArAfI3eY ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 8DTpDanHlWM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] cXL7ftLX2KA: nsig extraction failed: Some formats may be missing
+         n = V1xJw2c8ouzbXfXs0 ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] cXL7ftLX2KA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] TB2KptZBgqA: nsig extraction failed: Some formats may be missing
+         n = U50zXSKeP4BTHMnLQ ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] TB2KptZBgqA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] KcI9-ZBY0Yw: nsig extraction failed: Some formats may be missing
+         n = QSHJbakI81CWNgwVn ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] KcI9-ZBY0Yw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] s6B-ihXe7cE: nsig extraction failed: Some formats may be missing
+         n = M31_nyt7IvKlgTsZb ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] s6B-ihXe7cE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] 524tRTx3WXA: nsig extraction failed: Some formats may be missing
+         n = k77DvWeZmTKMrn84d ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] 524tRTx3WXA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+WARNING: [youtube] Falling back to generic n function search
+         player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+WARNING: [youtube] mQdgNMsheoA: nsig extraction failed: Some formats may be missing
+         n = ZfIMoOcvpwMZWCYXs ; player = https://www.youtube.com/s/player/5cabb421/player_es6.vflset/en_US/base.js
+ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+
+No internet connection. Skipping check.
+No internet connection. Skipping check.
