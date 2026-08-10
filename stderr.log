@@ -558,3 +558,23 @@ ERROR: [youtube] mQdgNMsheoA: Sign in to confirm you’re not a bot. Use --cooki
 
 No internet connection. Skipping check.
 No internet connection. Skipping check.
+To https://github.com/danilofiumi/VideoupdaterDF.git
+   fa0d7c7..c99d658  main -> main
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+No internet connection. Skipping check.
+yt-dlp stderr: WARNING: [youtube] HTTPSConnectionPool(host='www.youtube.com', port=443): Read timed out. Retrying (1/3)...
+WARNING: [youtube] ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer')). Retrying (1/3)...
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+WARNING: [youtube] Unable to download webpage: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)")). Giving up after 3 retries
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (1/3)...
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (2/3)...
+WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known). Retrying (3/3)...
+ERROR: [youtube] s6B-ihXe7cE: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)"))
+
+Failed to download thumbnail via curl: Command failed: /usr/bin/curl -L -s -o "/Users/danilofiumi/Projects/YT/Videoupdater/downloads/5and8apy7uE/thumbnail.jpg" "https://i.ytimg.com/vi/5and8apy7uE/maxresdefault.jpg"
