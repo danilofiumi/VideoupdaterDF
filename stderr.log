@@ -578,3 +578,6 @@ WARNING: [youtube] HTTPSConnection(host='www.youtube.com', port=443): Failed to 
 ERROR: [youtube] s6B-ihXe7cE: Unable to download API page: HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known) (caused by TransportError("HTTPSConnection(host='www.youtube.com', port=443): Failed to resolve 'www.youtube.com' ([Errno 8] nodename nor servname provided, or not known)"))
 
 Failed to download thumbnail via curl: Command failed: /usr/bin/curl -L -s -o "/Users/danilofiumi/Projects/YT/Videoupdater/downloads/5and8apy7uE/thumbnail.jpg" "https://i.ytimg.com/vi/5and8apy7uE/maxresdefault.jpg"
+fatal: unable to access 'https://github.com/danilofiumi/VideoupdaterDF.git/': Could not resolve host: github.com
+Failed to sync with GitHub: Command failed: /usr/bin/git push
+Failed to send Slack notification: Unable to connect. Is the computer able to access the url?

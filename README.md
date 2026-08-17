@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![Vibe coding 1 anno dopo: avevo ragione o torto?](downloads/2oB-slMMvsw/thumbnail.jpg)](https://www.youtube.com/watch?v=2oB-slMMvsw) | Vibe coding 1 anno dopo: avevo ragione o torto? | 2026-08-16 | [Watch](https://www.youtube.com/watch?v=2oB-slMMvsw) |
 | [![Street Photography a SEOUL con PIXEL 10 PRO! 📸🇰🇷 (È davvero così buono?)](downloads/5and8apy7uE/thumbnail.jpg)](https://www.youtube.com/watch?v=5and8apy7uE) | Street Photography a SEOUL con PIXEL 10 PRO! 📸🇰🇷 (È davvero così buono?) | 2026-08-09 | [Watch](https://www.youtube.com/watch?v=5and8apy7uE) |
 | [![Ho smesso di monitorarmi per 30 giorni... Ecco cosa è successo](downloads/8uZFh95suEQ/thumbnail.jpg)](https://www.youtube.com/watch?v=8uZFh95suEQ) | Ho smesso di monitorarmi per 30 giorni... Ecco cosa è successo | 2026-06-21 | [Watch](https://www.youtube.com/watch?v=8uZFh95suEQ) |
 | [![Ho usato WHOOP per 4 anni. Vi racconto perché ho finalmente DISDETTO](downloads/1_7d-PSXsXk/thumbnail.jpg)](https://www.youtube.com/watch?v=1_7d-PSXsXk) | Ho usato WHOOP per 4 anni. Vi racconto perché ho finalmente DISDETTO | 2026-05-16 | [Watch](https://www.youtube.com/watch?v=1_7d-PSXsXk) |
