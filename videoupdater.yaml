@@ -1,0 +1,30 @@
+# videoupdater.yaml
+#
+# Aggiorna automaticamente la galleria video di YouTube ogni lunedì alle 10:00.
+# Esegue bun run index.js nella cartella del progetto.
+
+description: "Aggiorna la galleria dei video YouTube da playlist e sincronizza con GitHub/Slack"
+labels:
+  - youtube
+  - videoupdater
+  - weekly
+
+# Standard cron: Ogni lunedì alle 10:00 (1 = Lunedì)
+schedule: "0 10 * * 1"
+
+working_dir: /Users/danilofiumi/Projects/YT/Videoupdater
+
+dotenv:
+  - .env
+
+env:
+  PATH: /Users/danilofiumi/.bun/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+type: graph
+
+steps:
+  - id: update_videos
+    run: /Users/danilofiumi/.bun/bin/bun run index.js
+    retry_policy:
+      limit: 2
+      interval_sec: 60
