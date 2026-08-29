@@ -581,3 +581,8 @@ Failed to download thumbnail via curl: Command failed: /usr/bin/curl -L -s -o "/
 fatal: unable to access 'https://github.com/danilofiumi/VideoupdaterDF.git/': Could not resolve host: github.com
 Failed to sync with GitHub: Command failed: /usr/bin/git push
 Failed to send Slack notification: Unable to connect. Is the computer able to access the url?
+error: RPC failed; curl 55 Send failure: Broken pipe
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+Failed to sync with GitHub: Command failed: /usr/bin/git push
