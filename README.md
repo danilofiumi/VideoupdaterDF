@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![Perché Fitbit Air cambia TUTTO (e Google non vuole che tu lo sappia)](downloads/9nMr71wgk0o/thumbnail.jpg)](https://www.youtube.com/watch?v=9nMr71wgk0o) | Perché Fitbit Air cambia TUTTO (e Google non vuole che tu lo sappia) | 2026-09-23 | [Watch](https://www.youtube.com/watch?v=9nMr71wgk0o) |
 | [![Perchè continuiamo a pagare l'abbonamento a WHOOP?](downloads/1QeMiveHkOk/thumbnail.jpg)](https://www.youtube.com/watch?v=1QeMiveHkOk) | Perchè continuiamo a pagare l'abbonamento a WHOOP? | 2026-08-28 | [Watch](https://www.youtube.com/watch?v=1QeMiveHkOk) |
 | [![Vibe coding 1 anno dopo: avevo ragione o torto?](downloads/2oB-slMMvsw/thumbnail.jpg)](https://www.youtube.com/watch?v=2oB-slMMvsw) | Vibe coding 1 anno dopo: avevo ragione o torto? | 2026-08-16 | [Watch](https://www.youtube.com/watch?v=2oB-slMMvsw) |
 | [![Street Photography a SEOUL con PIXEL 10 PRO! 📸🇰🇷 (È davvero così buono?)](downloads/5and8apy7uE/thumbnail.jpg)](https://www.youtube.com/watch?v=5and8apy7uE) | Street Photography a SEOUL con PIXEL 10 PRO! 📸🇰🇷 (È davvero così buono?) | 2026-08-09 | [Watch](https://www.youtube.com/watch?v=5and8apy7uE) |
