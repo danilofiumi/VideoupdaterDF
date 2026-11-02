@@ -4,6 +4,7 @@ This gallery is automatically updated with the latest videos from the playlist.
 
 | Thumbnail | Title | Upload Date | Link |
 | :--- | :--- | :--- | :--- |
+| [![I nuovi WEARABLE non misurano più il corpo (Ed è qui che inizia il problema)](downloads/JR3DgKy9TiU/thumbnail.jpg)](https://www.youtube.com/watch?v=JR3DgKy9TiU) | I nuovi WEARABLE non misurano più il corpo (Ed è qui che inizia il problema) | 2026-11-01 | [Watch](https://www.youtube.com/watch?v=JR3DgKy9TiU) |
 | [![Google ha un problema con Gemini…](downloads/aYmfT0OblcI/thumbnail.jpg)](https://www.youtube.com/watch?v=aYmfT0OblcI) | Google ha un problema con Gemini… | 2026-10-13 | [Watch](https://www.youtube.com/watch?v=aYmfT0OblcI) |
 | [![Perché Fitbit Air cambia TUTTO (e Google non vuole che tu lo sappia)](downloads/9nMr71wgk0o/thumbnail.jpg)](https://www.youtube.com/watch?v=9nMr71wgk0o) | Perché Fitbit Air cambia TUTTO (e Google non vuole che tu lo sappia) | 2026-09-23 | [Watch](https://www.youtube.com/watch?v=9nMr71wgk0o) |
 | [![Perchè continuiamo a pagare l'abbonamento a WHOOP?](downloads/1QeMiveHkOk/thumbnail.jpg)](https://www.youtube.com/watch?v=1QeMiveHkOk) | Perchè continuiamo a pagare l'abbonamento a WHOOP? | 2026-08-28 | [Watch](https://www.youtube.com/watch?v=1QeMiveHkOk) |
